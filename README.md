@@ -1,3 +1,3 @@
-# coarse-to-fine multimodal remote sensing image matching method
+# 3MRS
 
-The demo code and statistics table of experimental results for our IEEE GEOSCIENCE AND REMOTE SENSING LETTERS paper.
+The data, demo codes and statistics table of experimental results for our IEEE GEOSCIENCE AND REMOTE SENSING LETTERS paper "3MRS: An Effective Coarse-to-fine Matching Method for Multimodal Remote Sensing Imagery".
